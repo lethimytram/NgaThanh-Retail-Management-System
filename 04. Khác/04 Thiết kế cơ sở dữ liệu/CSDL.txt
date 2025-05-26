@@ -1,0 +1,15 @@
+TinNhanNhacNo (MaTinNhan, NoiDungTinNhan, ThoiGianGui)
+DoanhThu (MaDoanhThu, NgayTaoDoanhThu, TongDoanhThu)
+DonHang (MaDonHang, ThoiGianTaoDon, GiaTriDonHang)
+NguoiDung (MaNguoiDung, MatKhau)
+DonNo (MaDonNo, ThoiGianTaoDonNo, NgayHenTra, SoTienNo, GhiChu)
+KhachNo (MaKhachNo, TenKhachNo, SoDienThoai, DiaChi, GhiChu
+SanPham (MaSanPham, AnhSanPham, TenSanPham, DonVi, DonGiaNhap, DonGia)
+TinNhanNhacNo (MaTinNhan, MaDonNo,MaKhachNo, NoiDungTinNhan, ThoiGianG
+ui)
+DoanhThu (MaDoanhThu, MaDonHang, NgayTaoDoanhThu, TongDoanhThu)
+DonHang (MaDonHang,MaSanPham, ThoiGianTaoDon, GiaTriDonHang)
+NguoiDung (MaNguoiDung, MatKhau)
+DonNo (MaDonNo,MaKhachNo, ThoiGianTaoDonNo, NgayHenTra, SoTienNo, GhiChu)
+KhachNo (MaKhachNo ,TenKhachNo, SoDienThoai, DiaChi, GhiChu)
+SanPham (MaSanPham, AnhSanPham, TenSanPham, DonVi, DonGiaNhap, DonGia)
